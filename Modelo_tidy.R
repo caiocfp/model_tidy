@@ -16,7 +16,7 @@ rm(pacotes)
 ##dados##
 ################################################################################
 
-DF_MENCOES <- read.csv("(Itaú) Alertas 2018 a 2021.csv",
+DF_MENCOES <- read.csv("Dados.csv",
                        sep = ";")
 
 
